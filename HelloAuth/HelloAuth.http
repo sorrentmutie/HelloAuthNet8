@@ -1,0 +1,6 @@
+@HelloAuth_HostAddress = http://localhost:5074
+
+GET {{HelloAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
